@@ -1,3 +1,0 @@
-# awslambda
-# awslambda
-# awslambda
